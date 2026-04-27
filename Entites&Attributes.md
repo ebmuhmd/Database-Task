@@ -1,4 +1,4 @@
-## Entities as Tables (Matching ERD Exactly)
+## Entities as Tables 
 
 ### Customer
 

@@ -1,4 +1,4 @@
-# Database-Task|
+# Database-Task
 # 🍽️ Restaurant Management System - SRD
 
 ## System Description
